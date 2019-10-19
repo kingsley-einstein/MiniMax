@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Game",
+      "request": "launch",
+      "mainClass": "Game",
+      "projectName": "MiniMax_d9fe9900"
+    }
+  ]
+}
